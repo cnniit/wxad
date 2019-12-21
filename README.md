@@ -1,6 +1,7 @@
 ##### 运行 npm install 
 ##### 导入数据库文件 wxad-express-mysql.sql
-##### 浏览器打开http://localhost:3004/admin/login 用户名:admin 密码：123456
+##### 运行 node app.js 
+##### 浏览器打开 http://localhost:3004/admin/login 用户名:admin 密码：123456
 ###
 # wxad 广告推广系统
 ### 推广页管理 选择文件夹，复制文件夹（单个、多个、下标），并重命名文件夹。
